@@ -1,6 +1,6 @@
 # pymcu-arm-toolchain
 
-Vendored **LLVM toolchain** for the [PyMCU](https://github.com/PyMCU/pymcu)
+Vendored **LLVM toolchain** for the [PyMCU](https://github.com/PyMCU/PyMCU)
 ARM (Cortex-M) backend.
 
 The ARM backend lowers PyMCU's architecture-agnostic IR to **LLVM IR**
